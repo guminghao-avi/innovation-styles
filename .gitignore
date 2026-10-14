@@ -12,4 +12,5 @@ projects/*/stills/
 projects/*/sheet.png
 projects/*/*.mp4
 projects/_qa*/
+studies/
 *.log

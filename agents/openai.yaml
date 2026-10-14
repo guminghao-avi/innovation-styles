@@ -1,4 +1,4 @@
 interface:
   display_name: "创意短片 · 风格版"
-  short_description: "将主题做成像素、海底游戏、电影光影或纸艺短片，附完整示例与验收流程"
+  short_description: "用四种内置风格制作原创短片，也能从参考视频拆解、试做并沉淀新风格"
   default_prompt: "用 $innovation-styles 把我的主题做成一条字幕叙事、只有音效的原创动画短片。"
