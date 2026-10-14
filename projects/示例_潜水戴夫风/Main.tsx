@@ -1,5 +1,5 @@
 // 示例 · 潜水戴夫风：水面登场卡 → 下潜，红鱼一点点褪成灰（海水先吃掉红光）→ 打开手电，红色回来 → GET! 图鉴卡 + 金币
-// 风格说明：references/风格_潜水戴夫风.md；工具：@styles/diver
+// 风格说明：references/风格_02_潜水戴夫风.md；工具：@styles/diver
 import React from 'react';
 import { AbsoluteFill } from 'remotion';
 import { Shader, Canvas2D, GLSL, makeVO, useT, k, E, keys, lerp, clamp, rnd, W } from '@kit';

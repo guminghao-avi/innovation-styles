@@ -1,5 +1,5 @@
 // 示例 · 写实电影感（节选自《回声》的思路）：夜湖地平线上，一句话的波形响起又散掉 → 在脑子里一百遍（红、乱）
-// → 最后一次带着回声衰减 → 黎明 → 片名。风格说明：references/风格_写实电影感.md；工具：@styles/cinema
+// → 最后一次带着回声衰减 → 黎明 → 片名。风格说明：references/风格_03_写实电影感.md；工具：@styles/cinema
 import React from 'react';
 import { AbsoluteFill } from 'remotion';
 import { Shader, Canvas2D, GLSL, makeVO, useT, k, E, clamp, rnd } from '@kit';

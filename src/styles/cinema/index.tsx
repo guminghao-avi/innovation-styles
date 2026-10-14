@@ -1,4 +1,4 @@
-// 写实电影感（着色器做光 · 一个发光母题 · 宋体字幕 + Garamond 读数）—— 说明见 references/风格_写实电影感.md
+// 写实电影感（着色器做光 · 一个发光母题 · 宋体字幕 + Garamond 读数）—— 说明见 references/风格_03_写实电影感.md
 //   glow / glowLine   lighter 模式下的光晕、发光线（四层描边：宽淡 → 细亮 → 白热芯）
 //   CineSub           字幕：思源宋体 50px，逐字虚焦对焦，**词** 琥珀、“引号”冷白
 //   Readout           读数：宋体小标签 + Garamond 数字（纪录片式）

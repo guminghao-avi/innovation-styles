@@ -1,7 +1,7 @@
 {
   "name": "innovation-styles",
   "private": true,
-  "description": "四种原创动画风格的 Remotion 短片 skill：字幕叙事、合成音效、可复用示例",
+  "description": "19 套原创动画风格的短片 skill：可运行的 Remotion 示例、参考视频学习与按需选择工具",
   "scripts": {
     "studio": "remotion studio src/index.ts",
     "check": "node scripts/check.mjs --all",

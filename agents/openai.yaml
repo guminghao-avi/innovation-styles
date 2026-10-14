@@ -1,4 +1,4 @@
 interface:
   display_name: "创意短片 · 风格版"
-  short_description: "用四种内置风格制作原创短片，也能从参考视频拆解、试做并沉淀新风格"
+  short_description: "用 19 套内置风格制作原创短片，按需选择工具，也能从参考视频学习并沉淀风格"
   default_prompt: "用 $innovation-styles 把我的主题做成一条字幕叙事、只有音效的原创动画短片。"

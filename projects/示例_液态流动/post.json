@@ -1,0 +1,6 @@
+{
+  "grain": 3,
+  "vignette": 0.3,
+  "bloom": 0.3,
+  "bloomThreshold": 0.6
+}

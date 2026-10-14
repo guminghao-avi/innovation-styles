@@ -1,5 +1,5 @@
 // 示例 · 纸艺手绘：剪纸立体书场景 + 定格（一拍二）+ 墨线小人。日历页"今天"→ 纸条一张张摞成塔（明天、下周…）
-// → 小人扭头"躲开" → 只做两分钟：塔一张张飞走 → 片名纸片落下。风格说明：references/风格_纸艺手绘.md；工具：@styles/paper
+// → 小人扭头"躲开" → 只做两分钟：塔一张张飞走 → 片名纸片落下。风格说明：references/风格_04_纸艺手绘.md；工具：@styles/paper
 import React from 'react';
 import { AbsoluteFill } from 'remotion';
 import { Canvas2D, makeVO, useT, lerp, clamp, rnd, F, E } from '@kit';

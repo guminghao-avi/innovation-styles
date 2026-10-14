@@ -1,0 +1,9 @@
+{
+  "grain": 9,
+  "vignette": 0.4,
+  "bloom": 0.4,
+  "bloomThreshold": 0.45,
+  "bloomRadius": 30,
+  "ca": 3,
+  "eq": "saturation=1.15"
+}

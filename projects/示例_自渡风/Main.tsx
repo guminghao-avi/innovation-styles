@@ -1,5 +1,5 @@
 // 示例 · 自渡风（暗夜像素叙事）：选择菜单 → iris 打开夜海孤岛 → HUD 天数飞涨 → 漂来木板（获得物品）→ 片名砸下
-// 风格说明：references/风格_自渡风.md；工具：@styles/pixel
+// 风格说明：references/风格_01_自渡风.md；工具：@styles/pixel
 import React from 'react';
 import { AbsoluteFill } from 'remotion';
 import { Canvas2D, makeVO, useT, k, E, seg, lerp } from '@kit';

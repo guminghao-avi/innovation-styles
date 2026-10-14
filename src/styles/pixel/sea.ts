@@ -1,6 +1,6 @@
 // 自渡风 · 夜海像素引擎：天 / 海 / 月 / 日 / 云 / 星 / 浪 / 倒影 + 礁石、木筏、旗、雨、iris 遮罩，以及全分辨率光层的帮手。
 // 世界坐标：宽随镜头横移，高 WORLD_H=270，海平线 HZ=172；画布 = 1920/px × 1080/px（px=5 远景、6 中景、8 近景、12 特写）。
-// 一帧的写法见 references/风格_自渡风.md「一帧怎么画」。
+// 一帧的写法见 references/风格_01_自渡风.md「一帧怎么画」。
 import { clamp, lerp } from '@kit';
 import { C, GOLD, GOLD_HOT, COLD, COLD_HOT, MOON, u32, dpick, vnoise, glow, rnd, bayer, mixHex, ring } from './palette';
 export const HZ = 172, WORLD_H = 270;

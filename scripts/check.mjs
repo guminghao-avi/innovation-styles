@@ -10,7 +10,7 @@ import { DEFAULT_PROJ, ROOT, projDir } from './webpack.mjs';
 const { values } = parseArgs({ options: { proj: { type: 'string' }, all: { type: 'boolean' } } });
 if (values.all && values.proj) throw new Error('--all 与 --proj 二选一');
 const projects = values.all
-  ? fs.readdirSync(path.join(ROOT, 'projects')).filter(p => fs.existsSync(path.join(projDir(p), 'Main.tsx')))
+  ? fs.readdirSync(path.join(ROOT, 'projects')).filter(p => !p.startsWith('_qa') && fs.existsSync(path.join(projDir(p), 'Main.tsx')))
   : [values.proj || DEFAULT_PROJ];
 for (const proj of projects) {
   const dir = projDir(proj);
