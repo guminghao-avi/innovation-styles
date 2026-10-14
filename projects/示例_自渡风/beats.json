@@ -1,0 +1,13 @@
+{
+  "opt1": "a2+0.2",
+  "opt2": "a2+0.75",
+  "opt3": "a2+1.3",
+  "close": "a2.end+0.2",
+  "world": "close+0.45",
+  "roll0": "b1",
+  "roll1": "b2",
+  "ship": "b1",
+  "plank": "c1",
+  "grab": "c1.end+0.1",
+  "slam": "c1.end+1.0"
+}

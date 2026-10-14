@@ -1,0 +1,15 @@
+node_modules/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+projects/*/audio/
+projects/*/chunks/
+projects/*/stills/
+projects/*/sheet.png
+projects/*/*.mp4
+projects/_qa*/
+*.log

@@ -1,0 +1,1196 @@
+{
+ "end": 166.57,
+ "lufs": -14,
+ "music": [
+  {
+   "type": "air",
+   "t0": 0,
+   "t1": 166.47,
+   "tone": 0.0,
+   "gain": -41
+  }
+ ],
+ "sfx": [
+  {
+   "type": "underwater",
+   "t0": 0,
+   "t1": 43.11,
+   "gain": -39
+  },
+  {
+   "type": "whoosh",
+   "t": 2.6,
+   "dur": 1.4,
+   "dir": 1,
+   "gain": -34,
+   "verb": 0.4
+  },
+  {
+   "type": "whoosh",
+   "t": 7.13,
+   "dur": 0.35,
+   "dir": -1,
+   "gain": -30,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 7.25,
+   "size": 0.45,
+   "gain": -26,
+   "verb": 0.3
+  },
+  {
+   "type": "bubbles",
+   "t": 7.33,
+   "n": 9,
+   "spread": 0.7,
+   "gain": -28,
+   "verb": 0.3
+  },
+  {
+   "type": "swell",
+   "t": 9.45,
+   "dur": 2.4,
+   "note": "D3",
+   "gain": -27,
+   "verb": 0.5
+  },
+  {
+   "type": "whoosh",
+   "t": 11.075,
+   "dur": 1.3,
+   "dir": 1,
+   "gain": -25,
+   "verb": 0.35
+  },
+  {
+   "type": "shimmer",
+   "t": 11.475,
+   "dur": 2.4,
+   "gain": -37
+  },
+  {
+   "type": "ding",
+   "t": 12.275,
+   "note": "A5",
+   "gain": -28,
+   "verb": 0.7
+  },
+  {
+   "type": "splash",
+   "t": 15.2,
+   "size": 0.5,
+   "gain": -28,
+   "verb": 0.3
+  },
+  {
+   "type": "impact",
+   "t": 15.25,
+   "size": 0.25,
+   "gain": -36,
+   "verb": 0.4
+  },
+  {
+   "type": "bubbles",
+   "t": 15.35,
+   "n": 7,
+   "spread": 0.8,
+   "gain": -31,
+   "verb": 0.3
+  },
+  {
+   "type": "splash",
+   "t": 20.92,
+   "size": 0.5,
+   "gain": -28,
+   "verb": 0.3
+  },
+  {
+   "type": "impact",
+   "t": 20.97,
+   "size": 0.25,
+   "gain": -36,
+   "verb": 0.4
+  },
+  {
+   "type": "bubbles",
+   "t": 21.07,
+   "n": 7,
+   "spread": 0.8,
+   "gain": -31,
+   "verb": 0.3
+  },
+  {
+   "type": "splash",
+   "t": 28.526,
+   "size": 0.4,
+   "gain": -28,
+   "verb": 0.3
+  },
+  {
+   "type": "impact",
+   "t": 28.576,
+   "size": 0.25,
+   "gain": -36,
+   "verb": 0.4
+  },
+  {
+   "type": "bubbles",
+   "t": 28.676,
+   "n": 7,
+   "spread": 0.8,
+   "gain": -31,
+   "verb": 0.3
+  },
+  {
+   "type": "whoosh",
+   "t": 18.3,
+   "dur": 0.9,
+   "dir": 1,
+   "gain": -30,
+   "verb": 0.3
+  },
+  {
+   "type": "shimmer",
+   "t": 19.3,
+   "dur": 1.4,
+   "gain": -41
+  },
+  {
+   "type": "ding",
+   "t": 19.8,
+   "note": "E5",
+   "gain": -26,
+   "verb": 0.6
+  },
+  {
+   "type": "whoosh",
+   "t": 24.28,
+   "dur": 0.9,
+   "dir": -1,
+   "gain": -30,
+   "verb": 0.3
+  },
+  {
+   "type": "shimmer",
+   "t": 25.08,
+   "dur": 1.4,
+   "gain": -41
+  },
+  {
+   "type": "ding",
+   "t": 25.58,
+   "note": "A5",
+   "gain": -26,
+   "verb": 0.6
+  },
+  {
+   "type": "swell",
+   "t": 31.5,
+   "dur": 2.2,
+   "note": "D4",
+   "gain": -25,
+   "verb": 0.6
+  },
+  {
+   "type": "heart",
+   "t": 30.5,
+   "n": 2,
+   "bpm": 64,
+   "pitch": 1.6,
+   "gain": -30,
+   "verb": 0.05
+  },
+  {
+   "type": "whoosh",
+   "t": 34.809999999999995,
+   "dur": 2.4,
+   "dir": -1,
+   "gain": -27,
+   "verb": 0.5
+  },
+  {
+   "type": "shimmer",
+   "t": 35.51,
+   "dur": 3,
+   "gain": -43
+  },
+  {
+   "type": "impact",
+   "t": 35.71,
+   "size": 0.12,
+   "gain": -40,
+   "verb": 0.4
+  },
+  {
+   "type": "impact",
+   "t": 36.21,
+   "size": 0.12,
+   "gain": -40,
+   "verb": 0.4
+  },
+  {
+   "type": "impact",
+   "t": 37.21,
+   "size": 0.12,
+   "gain": -40,
+   "verb": 0.4
+  },
+  {
+   "type": "ding",
+   "t": 37.6,
+   "note": "B5",
+   "gain": -23,
+   "verb": 0.85
+  },
+  {
+   "type": "reverse",
+   "t": 41.0,
+   "dur": 2.2,
+   "note": "F#4",
+   "gain": -31
+  },
+  {
+   "type": "murmur",
+   "t0": 42.11,
+   "t1": 49.82,
+   "n": 9,
+   "gain": -25,
+   "verb": 0.3
+  },
+  {
+   "type": "murmur",
+   "t0": 49.52,
+   "t1": 61.07,
+   "n": 6,
+   "gain": -39,
+   "verb": 0.5
+  },
+  {
+   "type": "shimmer",
+   "t": 46.058,
+   "dur": 1.4,
+   "gain": -41
+  },
+  {
+   "type": "ding",
+   "t": 46.708,
+   "note": "E6",
+   "gain": -27,
+   "verb": 0.5
+  },
+  {
+   "type": "reverse",
+   "t": 51.769999999999996,
+   "dur": 1.4,
+   "note": "A4",
+   "gain": -29
+  },
+  {
+   "type": "heart",
+   "t": 50.769999999999996,
+   "n": 4,
+   "bpm": 58,
+   "pitch": 1.6,
+   "gain": -29,
+   "verb": 0.05
+  },
+  {
+   "type": "ding",
+   "t": 54.5,
+   "note": "D5",
+   "gain": -31,
+   "verb": 0.7
+  },
+  {
+   "type": "ding",
+   "t": 55.0,
+   "note": "F#5",
+   "gain": -31,
+   "verb": 0.7
+  },
+  {
+   "type": "ding",
+   "t": 55.5,
+   "note": "A5",
+   "gain": -31,
+   "verb": 0.7
+  },
+  {
+   "type": "reverse",
+   "t": 67.26,
+   "dur": 1.3,
+   "note": "A4",
+   "gain": -26
+  },
+  {
+   "type": "swell",
+   "t": 68.76,
+   "dur": 2.2,
+   "note": "D4",
+   "gain": -29,
+   "verb": 0.5
+  },
+  {
+   "type": "tick",
+   "t": 67.06,
+   "pitch": 1.3,
+   "gain": -41,
+   "pan": -0.6,
+   "verb": 0.3
+  },
+  {
+   "type": "tick",
+   "t": 67.26,
+   "pitch": 1.38,
+   "gain": -41,
+   "pan": -0.43,
+   "verb": 0.3
+  },
+  {
+   "type": "tick",
+   "t": 67.46,
+   "pitch": 1.46,
+   "gain": -41,
+   "pan": -0.26,
+   "verb": 0.3
+  },
+  {
+   "type": "tick",
+   "t": 67.66,
+   "pitch": 1.54,
+   "gain": -41,
+   "pan": -0.09,
+   "verb": 0.3
+  },
+  {
+   "type": "tick",
+   "t": 67.86,
+   "pitch": 1.62,
+   "gain": -41,
+   "pan": 0.08,
+   "verb": 0.3
+  },
+  {
+   "type": "tick",
+   "t": 68.06,
+   "pitch": 1.7,
+   "gain": -41,
+   "pan": 0.25,
+   "verb": 0.3
+  },
+  {
+   "type": "tick",
+   "t": 68.26,
+   "pitch": 1.78,
+   "gain": -41,
+   "pan": 0.42,
+   "verb": 0.3
+  },
+  {
+   "type": "tick",
+   "t": 68.46,
+   "pitch": 1.86,
+   "gain": -41,
+   "pan": 0.59,
+   "verb": 0.3
+  },
+  {
+   "type": "shimmer",
+   "t": 68.89500000000001,
+   "dur": 3.2,
+   "gain": -37
+  },
+  {
+   "type": "wind",
+   "t0": 68.69500000000001,
+   "t1": 75.61999999999999,
+   "gust": 0.25,
+   "gain": -40,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 69.895,
+   "size": 0.18,
+   "gain": -40,
+   "verb": 0.4
+  },
+  {
+   "type": "splash",
+   "t": 73.495,
+   "size": 0.18,
+   "gain": -40,
+   "verb": 0.4
+  },
+  {
+   "type": "ding",
+   "t": 72.543,
+   "note": "F#5",
+   "gain": -27,
+   "verb": 0.7
+  },
+  {
+   "type": "tape",
+   "t": 75.57,
+   "dur": 0.45,
+   "gain": -32
+  },
+  {
+   "type": "tick",
+   "t": 76.3,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 76.467,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 76.6,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 76.7,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 76.8,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 76.9,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 76.967,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 77.033,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 77.1,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 77.167,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 77.233,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 77.3,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 77.367,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 77.433,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 77.5,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 77.567,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 77.633,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 77.7,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 77.767,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 77.833,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 77.9,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 77.967,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 78.033,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 78.1,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 78.167,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 78.233,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 78.3,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 78.367,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 78.433,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 78.5,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 78.567,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 78.633,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 78.7,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 78.767,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 78.833,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 78.9,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 78.967,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 79.033,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 79.1,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 79.167,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 79.233,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 79.3,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 79.367,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 79.433,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 79.5,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 79.567,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 79.633,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 79.7,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 79.767,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 79.833,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 79.9,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "tick",
+   "t": 79.967,
+   "pitch": 0.9,
+   "gain": -40,
+   "verb": 0.1
+  },
+  {
+   "type": "reverse",
+   "t": 82.12,
+   "dur": 1.8,
+   "note": "D5",
+   "gain": -26
+  },
+  {
+   "type": "ding",
+   "t": 81.72,
+   "note": "A5",
+   "gain": -27,
+   "verb": 0.8
+  },
+  {
+   "type": "wind",
+   "t0": 84.47,
+   "t1": 100.39,
+   "gust": 0.1,
+   "gain": -42,
+   "verb": 0.3
+  },
+  {
+   "type": "bubbles",
+   "t": 87.8,
+   "n": 2,
+   "spread": 0.2,
+   "gain": -35,
+   "verb": 0.3
+  },
+  {
+   "type": "ding",
+   "t": 87.82,
+   "note": "D5",
+   "gain": -25,
+   "pan": -0.5,
+   "verb": 0.7
+  },
+  {
+   "type": "bubbles",
+   "t": 89.34,
+   "n": 2,
+   "spread": 0.2,
+   "gain": -35,
+   "verb": 0.3
+  },
+  {
+   "type": "ding",
+   "t": 89.36,
+   "note": "E5",
+   "gain": -25,
+   "pan": -0.35,
+   "verb": 0.7
+  },
+  {
+   "type": "bubbles",
+   "t": 89.9,
+   "n": 2,
+   "spread": 0.2,
+   "gain": -35,
+   "verb": 0.3
+  },
+  {
+   "type": "ding",
+   "t": 89.92,
+   "note": "F#5",
+   "gain": -25,
+   "pan": -0.2,
+   "verb": 0.7
+  },
+  {
+   "type": "bubbles",
+   "t": 94.34,
+   "n": 2,
+   "spread": 0.2,
+   "gain": -35,
+   "verb": 0.3
+  },
+  {
+   "type": "ding",
+   "t": 94.36,
+   "note": "A5",
+   "gain": -28,
+   "pan": -0.05,
+   "verb": 0.7
+  },
+  {
+   "type": "bubbles",
+   "t": 95.04,
+   "n": 2,
+   "spread": 0.2,
+   "gain": -35,
+   "verb": 0.3
+  },
+  {
+   "type": "ding",
+   "t": 95.06,
+   "note": "B5",
+   "gain": -28,
+   "pan": 0.1,
+   "verb": 0.7
+  },
+  {
+   "type": "bubbles",
+   "t": 95.74,
+   "n": 2,
+   "spread": 0.2,
+   "gain": -35,
+   "verb": 0.3
+  },
+  {
+   "type": "ding",
+   "t": 95.76,
+   "note": "D6",
+   "gain": -28,
+   "pan": 0.25,
+   "verb": 0.7
+  },
+  {
+   "type": "bubbles",
+   "t": 96.34,
+   "n": 2,
+   "spread": 0.2,
+   "gain": -35,
+   "verb": 0.3
+  },
+  {
+   "type": "ding",
+   "t": 96.36,
+   "note": "E6",
+   "gain": -28,
+   "pan": 0.4,
+   "verb": 0.7
+  },
+  {
+   "type": "glitch",
+   "t": 90.64999999999999,
+   "dur": 0.25,
+   "gain": -36
+  },
+  {
+   "type": "swell",
+   "t": 93.14999999999999,
+   "dur": 2,
+   "note": "D4",
+   "gain": -27,
+   "verb": 0.6
+  },
+  {
+   "type": "ding",
+   "t": 92.95,
+   "note": "D6",
+   "gain": -23,
+   "verb": 0.8
+  },
+  {
+   "type": "shimmer",
+   "t": 97.45500000000001,
+   "dur": 2.6,
+   "gain": -38
+  },
+  {
+   "type": "wind",
+   "t0": 99.09,
+   "t1": 120.36999999999999,
+   "gust": 0.05,
+   "gain": -43,
+   "verb": 0.3
+  },
+  {
+   "type": "shimmer",
+   "t": 103.42,
+   "dur": 1.2,
+   "gain": -44
+  },
+  {
+   "type": "shimmer",
+   "t": 108.94,
+   "dur": 1.2,
+   "gain": -44
+  },
+  {
+   "type": "bubbles",
+   "t": 105.64,
+   "n": 4,
+   "spread": 0.5,
+   "gain": -32,
+   "verb": 0.4
+  },
+  {
+   "type": "reverse",
+   "t": 106.49,
+   "dur": 1.1,
+   "note": "F#4",
+   "gain": -29
+  },
+  {
+   "type": "bubbles",
+   "t": 111.16000000000001,
+   "n": 4,
+   "spread": 0.5,
+   "gain": -32,
+   "verb": 0.4
+  },
+  {
+   "type": "reverse",
+   "t": 112.01,
+   "dur": 1.1,
+   "note": "F#4",
+   "gain": -29
+  },
+  {
+   "type": "reverse",
+   "t": 115.06,
+   "dur": 1.2,
+   "note": "A4",
+   "gain": -25
+  },
+  {
+   "type": "splash",
+   "t": 115.16,
+   "size": 0.6,
+   "gain": -25,
+   "verb": 0.4
+  },
+  {
+   "type": "swell",
+   "t": 116.25999999999999,
+   "dur": 2.2,
+   "note": "D4",
+   "gain": -25,
+   "verb": 0.6
+  },
+  {
+   "type": "ding",
+   "t": 116.90899999999999,
+   "note": "A5",
+   "gain": -29,
+   "verb": 0.7
+  },
+  {
+   "type": "swell",
+   "t": 121.36999999999999,
+   "dur": 3,
+   "note": "D3",
+   "gain": -27,
+   "verb": 0.6
+  },
+  {
+   "type": "shimmer",
+   "t": 121.77,
+   "dur": 2.6,
+   "gain": -41
+  },
+  {
+   "type": "ding",
+   "t": 123.7,
+   "note": "A5",
+   "gain": -26,
+   "verb": 0.8
+  },
+  {
+   "type": "ding",
+   "t": 126.85,
+   "note": "D6",
+   "gain": -33,
+   "verb": 0.7
+  },
+  {
+   "type": "ding",
+   "t": 127.2,
+   "note": "E6",
+   "gain": -33,
+   "verb": 0.7
+  },
+  {
+   "type": "ding",
+   "t": 127.55,
+   "note": "A6",
+   "gain": -33,
+   "verb": 0.7
+  },
+  {
+   "type": "heart",
+   "t": 130.955,
+   "n": 2,
+   "bpm": 56,
+   "pitch": 1.5,
+   "gain": -31,
+   "verb": 0.05
+  },
+  {
+   "type": "heart",
+   "t": 136.512,
+   "n": 2,
+   "bpm": 72,
+   "pitch": 1.4,
+   "gain": -25,
+   "verb": 0.05
+  },
+  {
+   "type": "reverse",
+   "t": 137.562,
+   "dur": 1.2,
+   "note": "F#4",
+   "gain": -28
+  },
+  {
+   "type": "whoosh",
+   "t": 137.562,
+   "dur": 1.0,
+   "dir": -1,
+   "gain": -31,
+   "verb": 0.4
+  },
+  {
+   "type": "riser",
+   "t": 143.992,
+   "dur": 3.6,
+   "gain": -25,
+   "verb": 0.3
+  },
+  {
+   "type": "impact",
+   "t": 144.012,
+   "size": 0.5,
+   "gain": -30,
+   "verb": 0.5
+  },
+  {
+   "type": "boom",
+   "t": 144.03199999999998,
+   "note": "D1",
+   "gain": -43
+  },
+  {
+   "type": "swell",
+   "t": 146.19199999999998,
+   "dur": 3,
+   "note": "D4",
+   "gain": -20,
+   "verb": 0.7
+  },
+  {
+   "type": "swell",
+   "t": 145.19199999999998,
+   "dur": 1.6,
+   "note": "A4",
+   "gain": -22,
+   "verb": 0.7
+  },
+  {
+   "type": "shimmer",
+   "t": 144.042,
+   "dur": 3.6,
+   "gain": -31
+  },
+  {
+   "type": "ding",
+   "t": 150.98999999999998,
+   "note": "F#5",
+   "gain": -25,
+   "verb": 0.8
+  },
+  {
+   "type": "ding",
+   "t": 154.5,
+   "note": "D5",
+   "gain": -28,
+   "verb": 0.8
+  },
+  {
+   "type": "boom",
+   "t": 159.07,
+   "note": "D1",
+   "gain": -43
+  },
+  {
+   "type": "shimmer",
+   "t": 158.96999999999997,
+   "dur": 2.6,
+   "gain": -43
+  },
+  {
+   "type": "swell",
+   "t": 161.36999999999998,
+   "dur": 2.6,
+   "note": "D4",
+   "gain": -27,
+   "verb": 0.6
+  }
+ ]
+}

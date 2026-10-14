@@ -1,0 +1,3268 @@
+{
+ "end": 184.83,
+ "lufs": -14,
+ "music": [
+  {
+   "type": "air",
+   "t0": 0,
+   "t1": 184.73000000000002,
+   "tone": 0.0,
+   "gain": -42
+  }
+ ],
+ "sfx": [
+  {
+   "type": "tick",
+   "t": [
+    -0.006,
+    0.108,
+    0.222,
+    0.336,
+    0.45
+   ],
+   "pitch": 1.8,
+   "gain": -24
+  },
+  {
+   "type": "tick",
+   "t": [
+    0.4,
+    0.46,
+    0.52,
+    0.58,
+    0.64
+   ],
+   "pitch": 1.3,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": [
+    1.45,
+    2.05,
+    2.65,
+    3.3
+   ],
+   "pitch": 1.1,
+   "gain": -27
+  },
+  {
+   "type": "glitch",
+   "t": 1.15,
+   "dur": 0.18,
+   "gain": -25
+  },
+  {
+   "type": "tick",
+   "t": 1.17,
+   "pitch": 0.55,
+   "gain": -24
+  },
+  {
+   "type": "alarm",
+   "t": 1.16,
+   "pitch": 1.6,
+   "gain": -38,
+   "verb": 0.2
+  },
+  {
+   "type": "glitch",
+   "t": 1.75,
+   "dur": 0.18,
+   "gain": -25
+  },
+  {
+   "type": "tick",
+   "t": 1.77,
+   "pitch": 0.55,
+   "gain": -24
+  },
+  {
+   "type": "alarm",
+   "t": 1.76,
+   "pitch": 1.6,
+   "gain": -38,
+   "verb": 0.2
+  },
+  {
+   "type": "glitch",
+   "t": 2.35,
+   "dur": 0.18,
+   "gain": -25
+  },
+  {
+   "type": "tick",
+   "t": 2.37,
+   "pitch": 0.55,
+   "gain": -24
+  },
+  {
+   "type": "alarm",
+   "t": 2.36,
+   "pitch": 1.6,
+   "gain": -38,
+   "verb": 0.2
+  },
+  {
+   "type": "glitch",
+   "t": 2.95,
+   "dur": 0.18,
+   "gain": -25
+  },
+  {
+   "type": "tick",
+   "t": 2.97,
+   "pitch": 0.55,
+   "gain": -24
+  },
+  {
+   "type": "alarm",
+   "t": 2.96,
+   "pitch": 1.6,
+   "gain": -38,
+   "verb": 0.2
+  },
+  {
+   "type": "clunk",
+   "t": 3.6,
+   "gain": -28,
+   "verb": 0.3
+  },
+  {
+   "type": "alarm",
+   "t": 3.65,
+   "pitch": 0.85,
+   "gain": -28,
+   "verb": 0.4
+  },
+  {
+   "type": "tick",
+   "t": [
+    6.2,
+    6.38
+   ],
+   "pitch": 0.9,
+   "gain": -28
+  },
+  {
+   "type": "whoosh",
+   "t": 6.4,
+   "dur": 0.4,
+   "dir": -1,
+   "gain": -32,
+   "verb": 0.2
+  },
+  {
+   "type": "swell",
+   "t": 6.7,
+   "dur": 1.1,
+   "note": "D3",
+   "gain": -31,
+   "verb": 0.6
+  },
+  {
+   "type": "waves",
+   "t0": 6.5,
+   "t1": 184.83,
+   "rate": 0.12,
+   "gain": -27,
+   "verb": 0.3
+  },
+  {
+   "type": "wind",
+   "t0": 6.8,
+   "t1": 184.83,
+   "gust": 0.35,
+   "gain": -41
+  },
+  {
+   "type": "tick",
+   "t": [
+    7.4,
+    7.55,
+    7.67,
+    7.79
+   ],
+   "pitch": 1.5,
+   "gain": -30
+  },
+  {
+   "type": "tape",
+   "t": 7.8,
+   "dur": 0.5,
+   "gain": -32
+  },
+  {
+   "type": "tick",
+   "t": [
+    7.8,
+    7.96,
+    8.095,
+    8.217,
+    8.329,
+    8.434,
+    8.531,
+    8.624,
+    8.711,
+    8.794,
+    8.873,
+    8.949,
+    9.021,
+    9.091,
+    9.158,
+    9.223,
+    9.285,
+    9.346,
+    9.405,
+    9.462,
+    9.517,
+    9.572,
+    9.625,
+    9.676,
+    9.727,
+    9.776,
+    9.825,
+    9.872,
+    9.919,
+    9.965,
+    10.011,
+    10.055,
+    10.099,
+    10.143,
+    10.186,
+    10.228,
+    10.271,
+    10.312,
+    10.354,
+    10.395,
+    10.436,
+    10.476,
+    10.517,
+    10.557,
+    10.597,
+    10.638,
+    10.678,
+    10.718,
+    10.758,
+    10.798,
+    10.838,
+    10.878,
+    10.918,
+    10.959,
+    11.0,
+    11.04,
+    11.082,
+    11.123,
+    11.165,
+    11.207,
+    11.25,
+    11.293,
+    11.337,
+    11.381,
+    11.426,
+    11.472,
+    11.518,
+    11.565,
+    11.613,
+    11.661,
+    11.711,
+    11.762,
+    11.813,
+    11.866,
+    11.921,
+    11.976,
+    12.034,
+    12.092,
+    12.153,
+    12.215,
+    12.28,
+    12.347,
+    12.416,
+    12.488,
+    12.563,
+    12.641,
+    12.722,
+    12.808,
+    12.898,
+    12.993,
+    13.094,
+    13.201,
+    13.316,
+    13.441,
+    13.578
+   ],
+   "pitch": 1.65,
+   "gain": -35
+  },
+  {
+   "type": "ding",
+   "t": 14.63,
+   "note": "A5",
+   "gain": -24,
+   "verb": 0.65
+  },
+  {
+   "type": "whoosh",
+   "t": 14.58,
+   "dur": 0.3,
+   "dir": -1,
+   "gain": -36,
+   "verb": 0.2
+  },
+  {
+   "type": "ding",
+   "t": 15.25,
+   "note": "B5",
+   "gain": -24,
+   "verb": 0.65
+  },
+  {
+   "type": "whoosh",
+   "t": 15.2,
+   "dur": 0.3,
+   "dir": 1,
+   "gain": -36,
+   "verb": 0.2
+  },
+  {
+   "type": "ding",
+   "t": 15.87,
+   "note": "D6",
+   "gain": -24,
+   "verb": 0.65
+  },
+  {
+   "type": "whoosh",
+   "t": 15.82,
+   "dur": 0.3,
+   "dir": -1,
+   "gain": -36,
+   "verb": 0.2
+  },
+  {
+   "type": "ding",
+   "t": 16.49,
+   "note": "E6",
+   "gain": -24,
+   "verb": 0.65
+  },
+  {
+   "type": "whoosh",
+   "t": 16.44,
+   "dur": 0.3,
+   "dir": 1,
+   "gain": -36,
+   "verb": 0.2
+  },
+  {
+   "type": "shimmer",
+   "t": 14.93,
+   "dur": 2.2,
+   "gain": -36
+  },
+  {
+   "type": "tick",
+   "t": 18.488,
+   "pitch": 0.6,
+   "gain": -28
+  },
+  {
+   "type": "tick",
+   "t": 18.888,
+   "pitch": 0.6,
+   "gain": -28
+  },
+  {
+   "type": "tick",
+   "t": 19.288,
+   "pitch": 0.6,
+   "gain": -28
+  },
+  {
+   "type": "glitch",
+   "t": 18.488,
+   "dur": 0.25,
+   "gain": -31
+  },
+  {
+   "type": "swell",
+   "t": 19.088,
+   "dur": 2.4,
+   "note": "A2",
+   "gain": -33,
+   "verb": 0.7
+  },
+  {
+   "type": "whoosh",
+   "t": 22.14,
+   "dur": 1.8,
+   "dir": 1,
+   "gain": -36,
+   "verb": 0.4
+  },
+  {
+   "type": "reverse",
+   "t": 24.54,
+   "dur": 1.4,
+   "note": "D4",
+   "gain": -27
+  },
+  {
+   "type": "impact",
+   "t": 24.54,
+   "size": 0.2,
+   "gain": -25,
+   "verb": 0.5
+  },
+  {
+   "type": "clunk",
+   "t": 24.54,
+   "gain": -24,
+   "verb": 0.5
+  },
+  {
+   "type": "ding",
+   "t": 24.56,
+   "note": "D5",
+   "gain": -24,
+   "verb": 0.8
+  },
+  {
+   "type": "ding",
+   "t": 24.59,
+   "note": "A5",
+   "gain": -26,
+   "verb": 0.8
+  },
+  {
+   "type": "shimmer",
+   "t": 24.64,
+   "dur": 2.4,
+   "gain": -31
+  },
+  {
+   "type": "tick",
+   "t": [
+    25.24,
+    25.316,
+    25.392,
+    25.469,
+    25.545,
+    25.621,
+    25.697,
+    25.773,
+    25.85,
+    25.926,
+    26.002
+   ],
+   "pitch": 1.9,
+   "gain": -36
+  },
+  {
+   "type": "whoosh",
+   "t": 27.19,
+   "dur": 1.4,
+   "dir": -1,
+   "gain": -34,
+   "verb": 0.3
+  },
+  {
+   "type": "tick",
+   "t": 26.99,
+   "pitch": 0.8,
+   "gain": -27
+  },
+  {
+   "type": "steps",
+   "t0": 26.94,
+   "t1": 27.34,
+   "rate": 4,
+   "gain": -34
+  },
+  {
+   "type": "splash",
+   "t": 28.357,
+   "size": 0.3,
+   "gain": -27,
+   "verb": 0.3
+  },
+  {
+   "type": "ding",
+   "t": 28.457,
+   "note": "E6",
+   "gain": -22,
+   "verb": 0.5
+  },
+  {
+   "type": "ding",
+   "t": 28.577,
+   "note": "B6",
+   "gain": -26,
+   "verb": 0.5
+  },
+  {
+   "type": "glitch",
+   "t": 29.107,
+   "dur": 0.15,
+   "gain": -31
+  },
+  {
+   "type": "tick",
+   "t": [
+    29.357,
+    29.47,
+    29.582,
+    29.694
+   ],
+   "pitch": 1.8,
+   "gain": -28
+  },
+  {
+   "type": "ding",
+   "t": 29.857,
+   "note": "A5",
+   "gain": -25,
+   "verb": 0.7
+  },
+  {
+   "type": "tick",
+   "t": 30.44,
+   "pitch": 0.9,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": 33.84,
+   "pitch": 0.5,
+   "gain": -25
+  },
+  {
+   "type": "tick",
+   "t": 33.87,
+   "pitch": 0.33,
+   "gain": -29
+  },
+  {
+   "type": "whoosh",
+   "t": 39.96,
+   "dur": 0.35,
+   "dir": 1,
+   "gain": -33,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 40.51,
+   "size": 0.22,
+   "gain": -30,
+   "verb": 0.3
+  },
+  {
+   "type": "bubbles",
+   "t": 40.66,
+   "n": 5,
+   "spread": 0.6,
+   "gain": -31,
+   "verb": 0.3
+  },
+  {
+   "type": "tick",
+   "t": 40.76,
+   "pitch": 0.7,
+   "gain": -31
+  },
+  {
+   "type": "whoosh",
+   "t": 40.51,
+   "dur": 0.35,
+   "dir": 1,
+   "gain": -33,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 41.06,
+   "size": 0.22,
+   "gain": -30,
+   "verb": 0.3
+  },
+  {
+   "type": "bubbles",
+   "t": 41.21,
+   "n": 5,
+   "spread": 0.6,
+   "gain": -31,
+   "verb": 0.3
+  },
+  {
+   "type": "tick",
+   "t": 41.31,
+   "pitch": 0.7,
+   "gain": -31
+  },
+  {
+   "type": "whoosh",
+   "t": 41.06,
+   "dur": 0.35,
+   "dir": 1,
+   "gain": -33,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 41.61,
+   "size": 0.22,
+   "gain": -30,
+   "verb": 0.3
+  },
+  {
+   "type": "bubbles",
+   "t": 41.76,
+   "n": 5,
+   "spread": 0.6,
+   "gain": -31,
+   "verb": 0.3
+  },
+  {
+   "type": "tick",
+   "t": 41.86,
+   "pitch": 0.7,
+   "gain": -31
+  },
+  {
+   "type": "whoosh",
+   "t": 41.61,
+   "dur": 0.35,
+   "dir": 1,
+   "gain": -33,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 42.16,
+   "size": 0.22,
+   "gain": -30,
+   "verb": 0.3
+  },
+  {
+   "type": "bubbles",
+   "t": 42.31,
+   "n": 5,
+   "spread": 0.6,
+   "gain": -31,
+   "verb": 0.3
+  },
+  {
+   "type": "tick",
+   "t": 42.41,
+   "pitch": 0.7,
+   "gain": -31
+  },
+  {
+   "type": "whoosh",
+   "t": 44.467,
+   "dur": 0.4,
+   "dir": 1,
+   "gain": -30,
+   "verb": 0.3
+  },
+  {
+   "type": "splash",
+   "t": 45.067,
+   "size": 0.3,
+   "gain": -28,
+   "verb": 0.3
+  },
+  {
+   "type": "shimmer",
+   "t": 45.117,
+   "dur": 1.2,
+   "gain": -33
+  },
+  {
+   "type": "whoosh",
+   "t": 45.867,
+   "dur": 0.6,
+   "dir": -1,
+   "gain": -33,
+   "verb": 0.3
+  },
+  {
+   "type": "tick",
+   "t": 46.367,
+   "pitch": 0.5,
+   "gain": -27
+  },
+  {
+   "type": "tick",
+   "t": 46.397,
+   "pitch": 0.33,
+   "gain": -31
+  },
+  {
+   "type": "ding",
+   "t": 46.387,
+   "note": "D5",
+   "gain": -29,
+   "verb": 0.5
+  },
+  {
+   "type": "tick",
+   "t": 52.84,
+   "pitch": 0.5,
+   "gain": -27
+  },
+  {
+   "type": "tick",
+   "t": 52.87,
+   "pitch": 0.33,
+   "gain": -31
+  },
+  {
+   "type": "ding",
+   "t": 52.86,
+   "note": "E5",
+   "gain": -29,
+   "verb": 0.5
+  },
+  {
+   "type": "tick",
+   "t": 55.41,
+   "pitch": 0.5,
+   "gain": -27
+  },
+  {
+   "type": "tick",
+   "t": 55.44,
+   "pitch": 0.33,
+   "gain": -31
+  },
+  {
+   "type": "ding",
+   "t": 55.43,
+   "note": "F#5",
+   "gain": -29,
+   "verb": 0.5
+  },
+  {
+   "type": "tick",
+   "t": 58.49,
+   "pitch": 0.5,
+   "gain": -27
+  },
+  {
+   "type": "tick",
+   "t": 58.52,
+   "pitch": 0.33,
+   "gain": -31
+  },
+  {
+   "type": "ding",
+   "t": 58.51,
+   "note": "A5",
+   "gain": -29,
+   "verb": 0.5
+  },
+  {
+   "type": "tick",
+   "t": 59.24,
+   "pitch": 0.5,
+   "gain": -27
+  },
+  {
+   "type": "tick",
+   "t": 59.27,
+   "pitch": 0.33,
+   "gain": -31
+  },
+  {
+   "type": "ding",
+   "t": 59.26,
+   "note": "B5",
+   "gain": -29,
+   "verb": 0.5
+  },
+  {
+   "type": "tick",
+   "t": 59.912,
+   "pitch": 0.5,
+   "gain": -27
+  },
+  {
+   "type": "tick",
+   "t": 59.942,
+   "pitch": 0.33,
+   "gain": -31
+  },
+  {
+   "type": "ding",
+   "t": 59.932,
+   "note": "D6",
+   "gain": -29,
+   "verb": 0.5
+  },
+  {
+   "type": "tick",
+   "t": 60.583,
+   "pitch": 0.5,
+   "gain": -27
+  },
+  {
+   "type": "tick",
+   "t": 60.613,
+   "pitch": 0.33,
+   "gain": -31
+  },
+  {
+   "type": "ding",
+   "t": 60.603,
+   "note": "E6",
+   "gain": -29,
+   "verb": 0.5
+  },
+  {
+   "type": "tick",
+   "t": 61.255,
+   "pitch": 0.5,
+   "gain": -27
+  },
+  {
+   "type": "tick",
+   "t": 61.285,
+   "pitch": 0.33,
+   "gain": -31
+  },
+  {
+   "type": "ding",
+   "t": 61.275,
+   "note": "F#6",
+   "gain": -29,
+   "verb": 0.5
+  },
+  {
+   "type": "tick",
+   "t": 61.927,
+   "pitch": 0.5,
+   "gain": -27
+  },
+  {
+   "type": "tick",
+   "t": 61.957,
+   "pitch": 0.33,
+   "gain": -31
+  },
+  {
+   "type": "ding",
+   "t": 61.947,
+   "note": "A6",
+   "gain": -29,
+   "verb": 0.5
+  },
+  {
+   "type": "tick",
+   "t": 62.598,
+   "pitch": 0.5,
+   "gain": -27
+  },
+  {
+   "type": "tick",
+   "t": 62.628,
+   "pitch": 0.33,
+   "gain": -31
+  },
+  {
+   "type": "ding",
+   "t": 62.618,
+   "note": "B6",
+   "gain": -29,
+   "verb": 0.5
+  },
+  {
+   "type": "tick",
+   "t": 63.27,
+   "pitch": 0.5,
+   "gain": -27
+  },
+  {
+   "type": "tick",
+   "t": 63.3,
+   "pitch": 0.33,
+   "gain": -31
+  },
+  {
+   "type": "ding",
+   "t": 63.29,
+   "note": "D7",
+   "gain": -29,
+   "verb": 0.5
+  },
+  {
+   "type": "whoosh",
+   "t": 58.94,
+   "dur": 0.4,
+   "dir": -1,
+   "gain": -37,
+   "verb": 0.2
+  },
+  {
+   "type": "whoosh",
+   "t": 59.612,
+   "dur": 0.4,
+   "dir": 1,
+   "gain": -37,
+   "verb": 0.2
+  },
+  {
+   "type": "whoosh",
+   "t": 60.283,
+   "dur": 0.4,
+   "dir": -1,
+   "gain": -37,
+   "verb": 0.2
+  },
+  {
+   "type": "whoosh",
+   "t": 60.955,
+   "dur": 0.4,
+   "dir": 1,
+   "gain": -37,
+   "verb": 0.2
+  },
+  {
+   "type": "whoosh",
+   "t": 61.627,
+   "dur": 0.4,
+   "dir": -1,
+   "gain": -37,
+   "verb": 0.2
+  },
+  {
+   "type": "whoosh",
+   "t": 62.298,
+   "dur": 0.4,
+   "dir": 1,
+   "gain": -37,
+   "verb": 0.2
+  },
+  {
+   "type": "whoosh",
+   "t": 62.97,
+   "dur": 0.4,
+   "dir": -1,
+   "gain": -37,
+   "verb": 0.2
+  },
+  {
+   "type": "ding",
+   "t": 46.417,
+   "note": "A6",
+   "gain": -30,
+   "verb": 0.6
+  },
+  {
+   "type": "ding",
+   "t": 52.89,
+   "note": "A6",
+   "gain": -30,
+   "verb": 0.6
+  },
+  {
+   "type": "ding",
+   "t": 54.96,
+   "note": "A6",
+   "gain": -30,
+   "verb": 0.6
+  },
+  {
+   "type": "ding",
+   "t": 58.54,
+   "note": "A6",
+   "gain": -30,
+   "verb": 0.6
+  },
+  {
+   "type": "paper",
+   "t": 46.3,
+   "dur": 0.5,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": [
+    46.45,
+    46.55,
+    46.65,
+    46.75
+   ],
+   "pitch": 1.4,
+   "gain": -31
+  },
+  {
+   "type": "glitch",
+   "t": 46.9,
+   "dur": 0.12,
+   "gain": -34
+  },
+  {
+   "type": "whoosh",
+   "t": 50.232,
+   "dur": 0.4,
+   "dir": -1,
+   "gain": -34,
+   "verb": 0.2
+  },
+  {
+   "type": "tick",
+   "t": [
+    50.482,
+    50.612,
+    50.742,
+    50.872,
+    51.002,
+    51.132,
+    51.262,
+    51.392,
+    51.522,
+    51.652,
+    51.782,
+    51.912
+   ],
+   "pitch": 1.9,
+   "gain": -29
+  },
+  {
+   "type": "paper",
+   "t": 52.64,
+   "dur": 0.4,
+   "gain": -32
+  },
+  {
+   "type": "paper",
+   "t": 53.84,
+   "dur": 0.7,
+   "gain": -29
+  },
+  {
+   "type": "paper",
+   "t": 54.64,
+   "dur": 0.5,
+   "gain": -32
+  },
+  {
+   "type": "swell",
+   "t": 57.12,
+   "dur": 1.2,
+   "note": "A3",
+   "gain": -33,
+   "verb": 0.6
+  },
+  {
+   "type": "tick",
+   "t": [
+    57.22,
+    57.354,
+    57.487,
+    57.621,
+    57.755,
+    57.889,
+    58.023,
+    58.156,
+    58.29
+   ],
+   "pitch": 1.2,
+   "gain": -36
+  },
+  {
+   "type": "ding",
+   "t": 58.34,
+   "note": "D6",
+   "gain": -27,
+   "verb": 0.6
+  },
+  {
+   "type": "ding",
+   "t": 63.37,
+   "note": "D5",
+   "gain": -25,
+   "verb": 0.7
+  },
+  {
+   "type": "ding",
+   "t": 63.4,
+   "note": "A5",
+   "gain": -27,
+   "verb": 0.7
+  },
+  {
+   "type": "shimmer",
+   "t": 63.37,
+   "dur": 1.2,
+   "gain": -33
+  },
+  {
+   "type": "tick",
+   "t": 63.37,
+   "pitch": 0.5,
+   "gain": -31
+  },
+  {
+   "type": "tick",
+   "t": 63.4,
+   "pitch": 0.33,
+   "gain": -35
+  },
+  {
+   "type": "tick",
+   "t": 63.561,
+   "pitch": 0.5,
+   "gain": -31
+  },
+  {
+   "type": "tick",
+   "t": 63.591,
+   "pitch": 0.33,
+   "gain": -35
+  },
+  {
+   "type": "tick",
+   "t": 63.752,
+   "pitch": 0.5,
+   "gain": -31
+  },
+  {
+   "type": "tick",
+   "t": 63.782,
+   "pitch": 0.33,
+   "gain": -35
+  },
+  {
+   "type": "tick",
+   "t": 63.943,
+   "pitch": 0.5,
+   "gain": -31
+  },
+  {
+   "type": "tick",
+   "t": 63.973,
+   "pitch": 0.33,
+   "gain": -35
+  },
+  {
+   "type": "tick",
+   "t": 64.134,
+   "pitch": 0.5,
+   "gain": -31
+  },
+  {
+   "type": "tick",
+   "t": 64.164,
+   "pitch": 0.33,
+   "gain": -35
+  },
+  {
+   "type": "tick",
+   "t": 64.325,
+   "pitch": 0.5,
+   "gain": -31
+  },
+  {
+   "type": "tick",
+   "t": 64.355,
+   "pitch": 0.33,
+   "gain": -35
+  },
+  {
+   "type": "tick",
+   "t": 64.515,
+   "pitch": 0.5,
+   "gain": -31
+  },
+  {
+   "type": "tick",
+   "t": 64.545,
+   "pitch": 0.33,
+   "gain": -35
+  },
+  {
+   "type": "tick",
+   "t": 64.706,
+   "pitch": 0.5,
+   "gain": -31
+  },
+  {
+   "type": "tick",
+   "t": 64.736,
+   "pitch": 0.33,
+   "gain": -35
+  },
+  {
+   "type": "tick",
+   "t": 64.897,
+   "pitch": 0.5,
+   "gain": -31
+  },
+  {
+   "type": "tick",
+   "t": 64.927,
+   "pitch": 0.33,
+   "gain": -35
+  },
+  {
+   "type": "tick",
+   "t": 65.088,
+   "pitch": 0.5,
+   "gain": -31
+  },
+  {
+   "type": "tick",
+   "t": 65.118,
+   "pitch": 0.33,
+   "gain": -35
+  },
+  {
+   "type": "tick",
+   "t": 65.279,
+   "pitch": 0.5,
+   "gain": -31
+  },
+  {
+   "type": "tick",
+   "t": 65.309,
+   "pitch": 0.33,
+   "gain": -35
+  },
+  {
+   "type": "tick",
+   "t": 65.47,
+   "pitch": 0.5,
+   "gain": -31
+  },
+  {
+   "type": "tick",
+   "t": 65.5,
+   "pitch": 0.33,
+   "gain": -35
+  },
+  {
+   "type": "ding",
+   "t": 65.72,
+   "note": "D5",
+   "gain": -26,
+   "verb": 0.7
+  },
+  {
+   "type": "ding",
+   "t": 65.75,
+   "note": "F#5",
+   "gain": -26,
+   "verb": 0.7
+  },
+  {
+   "type": "ding",
+   "t": 65.78,
+   "note": "A5",
+   "gain": -26,
+   "verb": 0.7
+  },
+  {
+   "type": "ding",
+   "t": 65.81,
+   "note": "D6",
+   "gain": -26,
+   "verb": 0.7
+  },
+  {
+   "type": "shimmer",
+   "t": 65.72,
+   "dur": 1.6,
+   "gain": -31
+  },
+  {
+   "type": "whoosh",
+   "t": 69.51,
+   "dur": 0.4,
+   "dir": 1,
+   "gain": -31,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 69.71,
+   "size": 0.3,
+   "gain": -28,
+   "verb": 0.3
+  },
+  {
+   "type": "splash",
+   "t": 69.96,
+   "size": 0.12,
+   "gain": -35,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 70.869,
+   "size": 0.12,
+   "gain": -35,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 71.778,
+   "size": 0.12,
+   "gain": -35,
+   "verb": 0.2
+  },
+  {
+   "type": "tick",
+   "t": 71.75,
+   "pitch": 0.5,
+   "gain": -23
+  },
+  {
+   "type": "tick",
+   "t": 71.78,
+   "pitch": 0.33,
+   "gain": -27
+  },
+  {
+   "type": "glitch",
+   "t": 71.77,
+   "dur": 0.1,
+   "gain": -33
+  },
+  {
+   "type": "tick",
+   "t": 72.35,
+   "pitch": 0.5,
+   "gain": -23
+  },
+  {
+   "type": "tick",
+   "t": 72.38,
+   "pitch": 0.33,
+   "gain": -27
+  },
+  {
+   "type": "glitch",
+   "t": 72.37,
+   "dur": 0.1,
+   "gain": -33
+  },
+  {
+   "type": "tick",
+   "t": 72.75,
+   "pitch": 0.5,
+   "gain": -23
+  },
+  {
+   "type": "tick",
+   "t": 72.78,
+   "pitch": 0.33,
+   "gain": -27
+  },
+  {
+   "type": "glitch",
+   "t": 72.77,
+   "dur": 0.1,
+   "gain": -33
+  },
+  {
+   "type": "splash",
+   "t": 73.2,
+   "size": 0.85,
+   "gain": -19,
+   "verb": 0.35
+  },
+  {
+   "type": "bubbles",
+   "t": 73.5,
+   "n": 12,
+   "spread": 1.2,
+   "gain": -27,
+   "verb": 0.3
+  },
+  {
+   "type": "whoosh",
+   "t": 73.0,
+   "dur": 0.6,
+   "dir": -1,
+   "gain": -29,
+   "verb": 0.3
+  },
+  {
+   "type": "alarm",
+   "t": 73.33,
+   "pitch": 0.8,
+   "gain": -26,
+   "verb": 0.4
+  },
+  {
+   "type": "glitch",
+   "t": 73.33,
+   "dur": 0.25,
+   "gain": -29
+  },
+  {
+   "type": "splash",
+   "t": 76.54,
+   "size": 0.1,
+   "gain": -34,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 76.96,
+   "size": 0.1,
+   "gain": -34,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 77.38,
+   "size": 0.1,
+   "gain": -34,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 77.8,
+   "size": 0.1,
+   "gain": -34,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 78.22,
+   "size": 0.1,
+   "gain": -34,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 78.64,
+   "size": 0.1,
+   "gain": -34,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 79.06,
+   "size": 0.1,
+   "gain": -34,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 79.48,
+   "size": 0.1,
+   "gain": -34,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 79.9,
+   "size": 0.1,
+   "gain": -34,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 80.32,
+   "size": 0.1,
+   "gain": -34,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 80.74,
+   "size": 0.1,
+   "gain": -34,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 81.16,
+   "size": 0.1,
+   "gain": -34,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 81.49,
+   "size": 0.25,
+   "gain": -29,
+   "verb": 0.3
+  },
+  {
+   "type": "tick",
+   "t": [
+    81.69,
+    81.96,
+    82.23,
+    82.5,
+    82.77,
+    83.04,
+    83.31,
+    83.58
+   ],
+   "pitch": 2.0,
+   "gain": -38
+  },
+  {
+   "type": "tick",
+   "t": 81.79,
+   "pitch": 0.5,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": 81.82,
+   "pitch": 0.33,
+   "gain": -34
+  },
+  {
+   "type": "ding",
+   "t": 81.81,
+   "note": "D5",
+   "gain": -34,
+   "verb": 0.4
+  },
+  {
+   "type": "tick",
+   "t": 82.038,
+   "pitch": 0.5,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": 82.068,
+   "pitch": 0.33,
+   "gain": -34
+  },
+  {
+   "type": "ding",
+   "t": 82.058,
+   "note": "E5",
+   "gain": -34,
+   "verb": 0.4
+  },
+  {
+   "type": "tick",
+   "t": 82.286,
+   "pitch": 0.5,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": 82.316,
+   "pitch": 0.33,
+   "gain": -34
+  },
+  {
+   "type": "ding",
+   "t": 82.306,
+   "note": "F#5",
+   "gain": -34,
+   "verb": 0.4
+  },
+  {
+   "type": "tick",
+   "t": 82.535,
+   "pitch": 0.5,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": 82.565,
+   "pitch": 0.33,
+   "gain": -34
+  },
+  {
+   "type": "ding",
+   "t": 82.555,
+   "note": "A5",
+   "gain": -34,
+   "verb": 0.4
+  },
+  {
+   "type": "tick",
+   "t": 82.783,
+   "pitch": 0.5,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": 82.813,
+   "pitch": 0.33,
+   "gain": -34
+  },
+  {
+   "type": "ding",
+   "t": 82.803,
+   "note": "B5",
+   "gain": -34,
+   "verb": 0.4
+  },
+  {
+   "type": "tick",
+   "t": 83.031,
+   "pitch": 0.5,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": 83.061,
+   "pitch": 0.33,
+   "gain": -34
+  },
+  {
+   "type": "ding",
+   "t": 83.051,
+   "note": "D6",
+   "gain": -34,
+   "verb": 0.4
+  },
+  {
+   "type": "tick",
+   "t": 83.279,
+   "pitch": 0.5,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": 83.309,
+   "pitch": 0.33,
+   "gain": -34
+  },
+  {
+   "type": "ding",
+   "t": 83.299,
+   "note": "D5",
+   "gain": -34,
+   "verb": 0.4
+  },
+  {
+   "type": "tick",
+   "t": 83.527,
+   "pitch": 0.5,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": 83.557,
+   "pitch": 0.33,
+   "gain": -34
+  },
+  {
+   "type": "ding",
+   "t": 83.547,
+   "note": "E5",
+   "gain": -34,
+   "verb": 0.4
+  },
+  {
+   "type": "tick",
+   "t": 83.775,
+   "pitch": 0.5,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": 83.805,
+   "pitch": 0.33,
+   "gain": -34
+  },
+  {
+   "type": "ding",
+   "t": 83.795,
+   "note": "F#5",
+   "gain": -34,
+   "verb": 0.4
+  },
+  {
+   "type": "tick",
+   "t": 84.024,
+   "pitch": 0.5,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": 84.054,
+   "pitch": 0.33,
+   "gain": -34
+  },
+  {
+   "type": "ding",
+   "t": 84.044,
+   "note": "A5",
+   "gain": -34,
+   "verb": 0.4
+  },
+  {
+   "type": "tick",
+   "t": 84.272,
+   "pitch": 0.5,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": 84.302,
+   "pitch": 0.33,
+   "gain": -34
+  },
+  {
+   "type": "ding",
+   "t": 84.292,
+   "note": "B5",
+   "gain": -34,
+   "verb": 0.4
+  },
+  {
+   "type": "tick",
+   "t": 84.52,
+   "pitch": 0.5,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": 84.55,
+   "pitch": 0.33,
+   "gain": -34
+  },
+  {
+   "type": "ding",
+   "t": 84.54,
+   "note": "D6",
+   "gain": -34,
+   "verb": 0.4
+  },
+  {
+   "type": "tick",
+   "t": 84.17,
+   "pitch": 0.75,
+   "gain": -26
+  },
+  {
+   "type": "tick",
+   "t": 84.18,
+   "pitch": 1.5,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": 84.57,
+   "pitch": 0.75,
+   "gain": -26
+  },
+  {
+   "type": "tick",
+   "t": 84.58,
+   "pitch": 1.5,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": 84.97,
+   "pitch": 0.75,
+   "gain": -26
+  },
+  {
+   "type": "tick",
+   "t": 84.98,
+   "pitch": 1.5,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": 85.37,
+   "pitch": 0.75,
+   "gain": -26
+  },
+  {
+   "type": "tick",
+   "t": 85.38,
+   "pitch": 1.5,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": 85.77,
+   "pitch": 0.75,
+   "gain": -26
+  },
+  {
+   "type": "tick",
+   "t": 85.78,
+   "pitch": 1.5,
+   "gain": -30
+  },
+  {
+   "type": "tick",
+   "t": 86.17,
+   "pitch": 0.75,
+   "gain": -26
+  },
+  {
+   "type": "tick",
+   "t": 86.18,
+   "pitch": 1.5,
+   "gain": -30
+  },
+  {
+   "type": "ding",
+   "t": 86.65,
+   "note": "D5",
+   "gain": -25,
+   "verb": 0.7
+  },
+  {
+   "type": "ding",
+   "t": 86.68,
+   "note": "F#5",
+   "gain": -25,
+   "verb": 0.7
+  },
+  {
+   "type": "ding",
+   "t": 86.71,
+   "note": "A5",
+   "gain": -25,
+   "verb": 0.7
+  },
+  {
+   "type": "ding",
+   "t": 86.74,
+   "note": "D6",
+   "gain": -25,
+   "verb": 0.7
+  },
+  {
+   "type": "ding",
+   "t": 86.77,
+   "note": "F#6",
+   "gain": -25,
+   "verb": 0.7
+  },
+  {
+   "type": "shimmer",
+   "t": 86.65,
+   "dur": 1.8,
+   "gain": -30
+  },
+  {
+   "type": "splash",
+   "t": 87.85,
+   "size": 0.3,
+   "gain": -29,
+   "verb": 0.3
+  },
+  {
+   "type": "splash",
+   "t": 88.05,
+   "size": 0.12,
+   "gain": -35,
+   "verb": 0.2
+  },
+  {
+   "type": "reverse",
+   "t": 88.45,
+   "dur": 0.8,
+   "note": "A4",
+   "gain": -32
+  },
+  {
+   "type": "whoosh",
+   "t": 88.75,
+   "dur": 0.6,
+   "dir": 1,
+   "gain": -32,
+   "verb": 0.3
+  },
+  {
+   "type": "splash",
+   "t": 88.75,
+   "size": 0.12,
+   "gain": -35,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 89.75,
+   "size": 0.12,
+   "gain": -35,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 90.75,
+   "size": 0.12,
+   "gain": -35,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 91.75,
+   "size": 0.12,
+   "gain": -35,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 92.75,
+   "size": 0.12,
+   "gain": -35,
+   "verb": 0.2
+  },
+  {
+   "type": "wind",
+   "t0": 89.15,
+   "t1": 119.0,
+   "gust": 0.85,
+   "gain": -29
+  },
+  {
+   "type": "rain",
+   "t0": 90.829,
+   "t1": 119.2,
+   "density": 1,
+   "gain": -23
+  },
+  {
+   "type": "waves",
+   "t0": 90.15,
+   "t1": 119.0,
+   "rate": 0.2,
+   "gain": -27,
+   "verb": 0.2
+  },
+  {
+   "type": "thunder",
+   "t": 92.5,
+   "near": 0.4,
+   "gain": -25
+  },
+  {
+   "type": "thunder",
+   "t": 97.19,
+   "near": 0.7,
+   "gain": -21
+  },
+  {
+   "type": "thunder",
+   "t": 99.121,
+   "near": 0.9,
+   "gain": -21
+  },
+  {
+   "type": "thunder",
+   "t": 102.4,
+   "near": 0.3,
+   "gain": -25
+  },
+  {
+   "type": "whoosh",
+   "t": 97.14,
+   "dur": 0.4,
+   "dir": -1,
+   "gain": -31,
+   "verb": 0.2
+  },
+  {
+   "type": "tick",
+   "t": 97.24,
+   "pitch": 0.5,
+   "gain": -22
+  },
+  {
+   "type": "tick",
+   "t": 97.27,
+   "pitch": 0.33,
+   "gain": -26
+  },
+  {
+   "type": "splash",
+   "t": 97.25,
+   "size": 0.35,
+   "gain": -27,
+   "verb": 0.3
+  },
+  {
+   "type": "glitch",
+   "t": 97.24,
+   "dur": 0.08,
+   "gain": -34
+  },
+  {
+   "type": "whoosh",
+   "t": 97.59,
+   "dur": 0.4,
+   "dir": -1,
+   "gain": -31,
+   "verb": 0.2
+  },
+  {
+   "type": "tick",
+   "t": 97.69,
+   "pitch": 0.5,
+   "gain": -22
+  },
+  {
+   "type": "tick",
+   "t": 97.72,
+   "pitch": 0.33,
+   "gain": -26
+  },
+  {
+   "type": "splash",
+   "t": 97.7,
+   "size": 0.35,
+   "gain": -27,
+   "verb": 0.3
+  },
+  {
+   "type": "glitch",
+   "t": 97.69,
+   "dur": 0.08,
+   "gain": -34
+  },
+  {
+   "type": "whoosh",
+   "t": 98.09,
+   "dur": 0.4,
+   "dir": -1,
+   "gain": -31,
+   "verb": 0.2
+  },
+  {
+   "type": "tick",
+   "t": 98.19,
+   "pitch": 0.5,
+   "gain": -22
+  },
+  {
+   "type": "tick",
+   "t": 98.22,
+   "pitch": 0.33,
+   "gain": -26
+  },
+  {
+   "type": "splash",
+   "t": 98.2,
+   "size": 0.35,
+   "gain": -27,
+   "verb": 0.3
+  },
+  {
+   "type": "glitch",
+   "t": 98.19,
+   "dur": 0.08,
+   "gain": -34
+  },
+  {
+   "type": "whoosh",
+   "t": 98.74,
+   "dur": 0.4,
+   "dir": -1,
+   "gain": -31,
+   "verb": 0.2
+  },
+  {
+   "type": "tick",
+   "t": 98.84,
+   "pitch": 0.5,
+   "gain": -22
+  },
+  {
+   "type": "tick",
+   "t": 98.87,
+   "pitch": 0.33,
+   "gain": -26
+  },
+  {
+   "type": "splash",
+   "t": 98.85,
+   "size": 0.35,
+   "gain": -27,
+   "verb": 0.3
+  },
+  {
+   "type": "glitch",
+   "t": 98.84,
+   "dur": 0.08,
+   "gain": -34
+  },
+  {
+   "type": "whoosh",
+   "t": 99.29,
+   "dur": 0.4,
+   "dir": -1,
+   "gain": -31,
+   "verb": 0.2
+  },
+  {
+   "type": "tick",
+   "t": 99.39,
+   "pitch": 0.5,
+   "gain": -22
+  },
+  {
+   "type": "tick",
+   "t": 99.42,
+   "pitch": 0.33,
+   "gain": -26
+  },
+  {
+   "type": "splash",
+   "t": 99.4,
+   "size": 0.35,
+   "gain": -27,
+   "verb": 0.3
+  },
+  {
+   "type": "glitch",
+   "t": 99.39,
+   "dur": 0.08,
+   "gain": -34
+  },
+  {
+   "type": "whoosh",
+   "t": 99.74,
+   "dur": 0.4,
+   "dir": -1,
+   "gain": -31,
+   "verb": 0.2
+  },
+  {
+   "type": "tick",
+   "t": 99.84,
+   "pitch": 0.5,
+   "gain": -22
+  },
+  {
+   "type": "tick",
+   "t": 99.87,
+   "pitch": 0.33,
+   "gain": -26
+  },
+  {
+   "type": "splash",
+   "t": 99.85,
+   "size": 0.35,
+   "gain": -27,
+   "verb": 0.3
+  },
+  {
+   "type": "glitch",
+   "t": 99.84,
+   "dur": 0.08,
+   "gain": -34
+  },
+  {
+   "type": "alarm",
+   "t": 98.89,
+   "pitch": 0.7,
+   "gain": -27,
+   "verb": 0.3
+  },
+  {
+   "type": "alarm",
+   "t": 99.99,
+   "pitch": 0.7,
+   "gain": -29,
+   "verb": 0.3
+  },
+  {
+   "type": "underwater",
+   "t0": 104.925,
+   "t1": 110.31,
+   "gain": -29
+  },
+  {
+   "type": "bubbles",
+   "t": 105.125,
+   "n": 6,
+   "spread": 0.5,
+   "gain": -30,
+   "verb": 0.3
+  },
+  {
+   "type": "bubbles",
+   "t": 105.345,
+   "n": 6,
+   "spread": 0.5,
+   "gain": -30,
+   "verb": 0.3
+  },
+  {
+   "type": "bubbles",
+   "t": 105.565,
+   "n": 6,
+   "spread": 0.5,
+   "gain": -30,
+   "verb": 0.3
+  },
+  {
+   "type": "bubbles",
+   "t": 105.785,
+   "n": 6,
+   "spread": 0.5,
+   "gain": -30,
+   "verb": 0.3
+  },
+  {
+   "type": "bubbles",
+   "t": 106.005,
+   "n": 6,
+   "spread": 0.5,
+   "gain": -30,
+   "verb": 0.3
+  },
+  {
+   "type": "bubbles",
+   "t": 106.225,
+   "n": 6,
+   "spread": 0.5,
+   "gain": -30,
+   "verb": 0.3
+  },
+  {
+   "type": "swell",
+   "t": 105.725,
+   "dur": 2.6,
+   "note": "D4",
+   "gain": -28,
+   "verb": 0.7
+  },
+  {
+   "type": "ding",
+   "t": 109.71,
+   "note": "A5",
+   "gain": -27,
+   "verb": 0.7
+  },
+  {
+   "type": "ding",
+   "t": 113.426,
+   "note": "D6",
+   "gain": -24,
+   "verb": 0.6
+  },
+  {
+   "type": "whoosh",
+   "t": 113.526,
+   "dur": 0.5,
+   "dir": 1,
+   "gain": -30,
+   "verb": 0.3
+  },
+  {
+   "type": "splash",
+   "t": 113.626,
+   "size": 0.12,
+   "gain": -33,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 114.535,
+   "size": 0.12,
+   "gain": -33,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 115.444,
+   "size": 0.12,
+   "gain": -33,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 116.353,
+   "size": 0.12,
+   "gain": -33,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 117.262,
+   "size": 0.12,
+   "gain": -33,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 118.171,
+   "size": 0.12,
+   "gain": -33,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 119.081,
+   "size": 0.12,
+   "gain": -33,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 119.99,
+   "size": 0.12,
+   "gain": -33,
+   "verb": 0.2
+  },
+  {
+   "type": "shimmer",
+   "t": 117.4,
+   "dur": 2.4,
+   "gain": -33
+  },
+  {
+   "type": "swell",
+   "t": 118.4,
+   "dur": 2.6,
+   "note": "A3",
+   "gain": -31,
+   "verb": 0.7
+  },
+  {
+   "type": "tick",
+   "t": 120.28,
+   "pitch": 0.9,
+   "gain": -28
+  },
+  {
+   "type": "crickets",
+   "t0": 120.33,
+   "t1": 151.33,
+   "n": 3,
+   "gain": -42
+  },
+  {
+   "type": "ding",
+   "t": 124.145,
+   "note": "D5",
+   "gain": -25,
+   "verb": 0.7,
+   "pan": -0.5
+  },
+  {
+   "type": "ding",
+   "t": 124.465,
+   "note": "E5",
+   "gain": -25,
+   "verb": 0.7,
+   "pan": -0.3
+  },
+  {
+   "type": "ding",
+   "t": 124.785,
+   "note": "F#5",
+   "gain": -25,
+   "verb": 0.7,
+   "pan": -0.1
+  },
+  {
+   "type": "ding",
+   "t": 125.105,
+   "note": "A5",
+   "gain": -25,
+   "verb": 0.7,
+   "pan": 0.1
+  },
+  {
+   "type": "ding",
+   "t": 125.425,
+   "note": "B5",
+   "gain": -25,
+   "verb": 0.7,
+   "pan": 0.3
+  },
+  {
+   "type": "ding",
+   "t": 125.745,
+   "note": "D6",
+   "gain": -25,
+   "verb": 0.7,
+   "pan": 0.5
+  },
+  {
+   "type": "shimmer",
+   "t": 124.645,
+   "dur": 2,
+   "gain": -33
+  },
+  {
+   "type": "tick",
+   "t": 127.25,
+   "pitch": 0.8,
+   "gain": -35,
+   "pan": 0.6
+  },
+  {
+   "type": "tick",
+   "t": 127.75,
+   "pitch": 0.8,
+   "gain": -35,
+   "pan": 0.6
+  },
+  {
+   "type": "tick",
+   "t": 128.25,
+   "pitch": 0.8,
+   "gain": -35,
+   "pan": 0.6
+  },
+  {
+   "type": "tick",
+   "t": 128.75,
+   "pitch": 0.8,
+   "gain": -35,
+   "pan": 0.6
+  },
+  {
+   "type": "tick",
+   "t": 129.25,
+   "pitch": 0.8,
+   "gain": -35,
+   "pan": 0.6
+  },
+  {
+   "type": "tick",
+   "t": 129.75,
+   "pitch": 0.8,
+   "gain": -35,
+   "pan": 0.6
+  },
+  {
+   "type": "tick",
+   "t": 130.25,
+   "pitch": 0.8,
+   "gain": -35,
+   "pan": 0.6
+  },
+  {
+   "type": "tick",
+   "t": 130.75,
+   "pitch": 0.8,
+   "gain": -35,
+   "pan": 0.6
+  },
+  {
+   "type": "tick",
+   "t": 131.25,
+   "pitch": 0.8,
+   "gain": -35,
+   "pan": 0.6
+  },
+  {
+   "type": "splash",
+   "t": 131.84,
+   "size": 0.12,
+   "gain": -36,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 132.749,
+   "size": 0.12,
+   "gain": -36,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 133.658,
+   "size": 0.12,
+   "gain": -36,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 134.567,
+   "size": 0.12,
+   "gain": -36,
+   "verb": 0.2
+  },
+  {
+   "type": "whoosh",
+   "t": 135.11,
+   "dur": 0.5,
+   "dir": -1,
+   "gain": -29,
+   "verb": 0.2
+  },
+  {
+   "type": "tick",
+   "t": 135.36,
+   "pitch": 0.5,
+   "gain": -28
+  },
+  {
+   "type": "tick",
+   "t": 135.39,
+   "pitch": 0.33,
+   "gain": -32
+  },
+  {
+   "type": "ding",
+   "t": 135.46,
+   "note": "A5",
+   "gain": -28,
+   "verb": 0.5
+  },
+  {
+   "type": "tick",
+   "t": [
+    137.04,
+    137.169,
+    137.297,
+    137.426,
+    137.554,
+    137.683,
+    137.811
+   ],
+   "pitch": 1.7,
+   "gain": -29
+  },
+  {
+   "type": "tick",
+   "t": [
+    139.436,
+    139.553,
+    139.669
+   ],
+   "pitch": 2.0,
+   "gain": -28
+  },
+  {
+   "type": "ding",
+   "t": 139.456,
+   "note": "E6",
+   "gain": -22,
+   "verb": 0.6
+  },
+  {
+   "type": "ding",
+   "t": 139.576,
+   "note": "B6",
+   "gain": -25,
+   "verb": 0.6
+  },
+  {
+   "type": "ding",
+   "t": 139.986,
+   "note": "A6",
+   "gain": -29,
+   "verb": 0.6
+  },
+  {
+   "type": "shimmer",
+   "t": 141.67,
+   "dur": 2.2,
+   "gain": -32
+  },
+  {
+   "type": "ding",
+   "t": 144.201,
+   "note": "D5",
+   "gain": -24,
+   "verb": 0.75
+  },
+  {
+   "type": "ding",
+   "t": 144.521,
+   "note": "F#5",
+   "gain": -24,
+   "verb": 0.75
+  },
+  {
+   "type": "ding",
+   "t": 144.841,
+   "note": "A5",
+   "gain": -24,
+   "verb": 0.75
+  },
+  {
+   "type": "ding",
+   "t": 145.161,
+   "note": "D6",
+   "gain": -24,
+   "verb": 0.75
+  },
+  {
+   "type": "ding",
+   "t": 145.481,
+   "note": "F#6",
+   "gain": -24,
+   "verb": 0.75
+  },
+  {
+   "type": "swell",
+   "t": 145.601,
+   "dur": 2.2,
+   "note": "D4",
+   "gain": -28,
+   "verb": 0.7
+  },
+  {
+   "type": "swell",
+   "t": 151.93,
+   "dur": 3.2,
+   "note": "D3",
+   "gain": -29,
+   "verb": 0.7
+  },
+  {
+   "type": "shimmer",
+   "t": 151.33,
+   "dur": 3,
+   "gain": -34
+  },
+  {
+   "type": "whoosh",
+   "t": 155.08,
+   "dur": 0.6,
+   "dir": 1,
+   "gain": -33,
+   "verb": 0.3
+  },
+  {
+   "type": "tick",
+   "t": [
+    158.17,
+    158.27,
+    158.37,
+    158.47,
+    158.57
+   ],
+   "pitch": 1.8,
+   "gain": -26
+  },
+  {
+   "type": "tick",
+   "t": [
+    158.37,
+    158.43,
+    158.49,
+    158.55,
+    158.61
+   ],
+   "pitch": 1.3,
+   "gain": -31
+  },
+  {
+   "type": "tick",
+   "t": 159.07,
+   "pitch": 1.1,
+   "gain": -27
+  },
+  {
+   "type": "clunk",
+   "t": 163.438,
+   "gain": -28,
+   "verb": 0.3
+  },
+  {
+   "type": "tick",
+   "t": 163.438,
+   "pitch": 0.55,
+   "gain": -25
+  },
+  {
+   "type": "glitch",
+   "t": 165.57,
+   "dur": 0.45,
+   "gain": -30
+  },
+  {
+   "type": "reverse",
+   "t": 166.07,
+   "dur": 1.2,
+   "note": "D5",
+   "gain": -27
+  },
+  {
+   "type": "snip",
+   "t": 166.07,
+   "gain": -22,
+   "verb": 0.4
+  },
+  {
+   "type": "impact",
+   "t": 166.07,
+   "size": 0.2,
+   "gain": -26,
+   "verb": 0.5
+  },
+  {
+   "type": "ding",
+   "t": 166.52,
+   "note": "D5",
+   "gain": -23,
+   "verb": 0.8
+  },
+  {
+   "type": "ding",
+   "t": 166.56,
+   "note": "A5",
+   "gain": -23,
+   "verb": 0.8
+  },
+  {
+   "type": "ding",
+   "t": 166.6,
+   "note": "D6",
+   "gain": -23,
+   "verb": 0.8
+  },
+  {
+   "type": "ding",
+   "t": 166.64,
+   "note": "F#6",
+   "gain": -23,
+   "verb": 0.8
+  },
+  {
+   "type": "shimmer",
+   "t": 166.37,
+   "dur": 2.4,
+   "gain": -29
+  },
+  {
+   "type": "tick",
+   "t": [
+    168.67,
+    168.85
+   ],
+   "pitch": 0.9,
+   "gain": -28
+  },
+  {
+   "type": "steps",
+   "t0": 168.72,
+   "t1": 169.07,
+   "rate": 4,
+   "gain": -33
+  },
+  {
+   "type": "fire",
+   "t0": 169.07,
+   "t1": 170.37,
+   "rate": 30,
+   "gain": -30
+  },
+  {
+   "type": "ding",
+   "t": 169.09,
+   "note": "A5",
+   "gain": -25,
+   "verb": 0.6
+  },
+  {
+   "type": "whoosh",
+   "t": 171.24,
+   "dur": 0.5,
+   "dir": 1,
+   "gain": -32,
+   "verb": 0.3
+  },
+  {
+   "type": "tick",
+   "t": [
+    172.14,
+    172.31,
+    172.48
+   ],
+   "pitch": 1.8,
+   "gain": -30
+  },
+  {
+   "type": "splash",
+   "t": 171.44,
+   "size": 0.12,
+   "gain": -30,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 172.551,
+   "size": 0.12,
+   "gain": -30,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 173.662,
+   "size": 0.12,
+   "gain": -30,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 174.773,
+   "size": 0.12,
+   "gain": -30,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 175.884,
+   "size": 0.12,
+   "gain": -30,
+   "verb": 0.2
+  },
+  {
+   "type": "swell",
+   "t": 172.24,
+   "dur": 2.4,
+   "note": "D4",
+   "gain": -27,
+   "verb": 0.7
+  },
+  {
+   "type": "reverse",
+   "t": 176.83,
+   "dur": 1.4,
+   "note": "D4",
+   "gain": -27
+  },
+  {
+   "type": "impact",
+   "t": 176.83,
+   "size": 0.25,
+   "gain": -24,
+   "verb": 0.5
+  },
+  {
+   "type": "clunk",
+   "t": 176.83,
+   "gain": -26,
+   "verb": 0.5
+  },
+  {
+   "type": "ding",
+   "t": 176.85,
+   "note": "D5",
+   "gain": -24,
+   "verb": 0.85
+  },
+  {
+   "type": "ding",
+   "t": 176.88,
+   "note": "F#5",
+   "gain": -24,
+   "verb": 0.85
+  },
+  {
+   "type": "ding",
+   "t": 176.91,
+   "note": "A5",
+   "gain": -24,
+   "verb": 0.85
+  },
+  {
+   "type": "ding",
+   "t": 176.94,
+   "note": "D6",
+   "gain": -24,
+   "verb": 0.85
+  },
+  {
+   "type": "shimmer",
+   "t": 176.93,
+   "dur": 3,
+   "gain": -31
+  },
+  {
+   "type": "tick",
+   "t": [
+    178.03,
+    178.147,
+    178.263,
+    178.38,
+    178.497,
+    178.613,
+    178.73,
+    178.847,
+    178.963,
+    179.08,
+    179.197,
+    179.313
+   ],
+   "pitch": 1.9,
+   "gain": -34
+  },
+  {
+   "type": "splash",
+   "t": 176.33,
+   "size": 0.12,
+   "gain": -36,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 177.239,
+   "size": 0.12,
+   "gain": -36,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 178.148,
+   "size": 0.12,
+   "gain": -36,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 179.057,
+   "size": 0.12,
+   "gain": -36,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 179.966,
+   "size": 0.12,
+   "gain": -36,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 180.875,
+   "size": 0.12,
+   "gain": -36,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 181.785,
+   "size": 0.12,
+   "gain": -36,
+   "verb": 0.2
+  },
+  {
+   "type": "splash",
+   "t": 182.694,
+   "size": 0.12,
+   "gain": -36,
+   "verb": 0.2
+  },
+  {
+   "type": "type",
+   "t0": 0.3,
+   "t1": 0.62,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 2.81,
+   "t1": 3.258,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 7.5,
+   "t1": 7.916,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 10.47,
+   "t1": 10.982,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 14.48,
+   "t1": 14.8,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 16.91,
+   "t1": 17.262,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 21.24,
+   "t1": 21.816,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 26.49,
+   "t1": 26.874,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 32.74,
+   "t1": 33.156,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 35.51,
+   "t1": 35.894,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 39.56,
+   "t1": 39.944,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 42.59,
+   "t1": 42.91,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 46.2,
+   "t1": 46.68,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 49.59,
+   "t1": 49.974,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 53.54,
+   "t1": 53.796,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 55.61,
+   "t1": 55.962,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 59.04,
+   "t1": 59.584,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 66.07,
+   "t1": 66.358,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 69.16,
+   "t1": 69.288,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 73.45,
+   "t1": 73.546,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 76.94,
+   "t1": 77.516,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 81.39,
+   "t1": 81.742,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 84.02,
+   "t1": 84.372,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 90.15,
+   "t1": 90.374,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 93.2,
+   "t1": 93.648,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 96.69,
+   "t1": 97.234,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 101.0,
+   "t1": 101.352,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 104.13,
+   "t1": 104.386,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 106.42,
+   "t1": 106.868,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 110.91,
+   "t1": 111.454,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 117.4,
+   "t1": 117.752,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 120.03,
+   "t1": 120.19,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 122.94,
+   "t1": 123.26,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 126.95,
+   "t1": 127.398,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 131.24,
+   "t1": 131.56,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 134.65,
+   "t1": 134.938,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 136.94,
+   "t1": 137.292,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 141.67,
+   "t1": 141.99,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 144.08,
+   "t1": 144.464,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 151.53,
+   "t1": 151.754,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 155.38,
+   "t1": 155.796,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 158.27,
+   "t1": 158.558,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 161.76,
+   "t1": 162.24,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 169.17,
+   "t1": 169.394,
+   "rate": 24,
+   "gain": -40
+  },
+  {
+   "type": "type",
+   "t0": 171.64,
+   "t1": 171.928,
+   "rate": 24,
+   "gain": -40
+  }
+ ]
+}

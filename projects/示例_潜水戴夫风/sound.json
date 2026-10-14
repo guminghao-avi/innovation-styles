@@ -1,0 +1,91 @@
+{
+ "end": 21.14,
+ "lufs": -14,
+ "music": [
+  {
+   "type": "air",
+   "t0": 0,
+   "t1": 21.04,
+   "tone": 0.2,
+   "gain": -34
+  }
+ ],
+ "sfx": [
+  {
+   "type": "underwater",
+   "t0": 0,
+   "t1": 21.14,
+   "gain": -24
+  },
+  {
+   "type": "splash",
+   "t": 0.15,
+   "size": 0.4,
+   "gain": -24,
+   "verb": 0.2
+  },
+  {
+   "type": "whoosh",
+   "t": 0.7,
+   "dur": 0.5,
+   "dir": 1,
+   "gain": -20
+  },
+  {
+   "type": "bubbles",
+   "t": [
+    1.5,
+    3.2,
+    4.27,
+    8.18,
+    10.73,
+    14.42
+   ],
+   "n": 4,
+   "spread": 0.4,
+   "gain": -28,
+   "verb": 0.3
+  },
+  {
+   "type": "whoosh",
+   "t": 4.369999999999999,
+   "dur": 1.6,
+   "dir": -1,
+   "gain": -28,
+   "verb": 0.4
+  },
+  {
+   "type": "clunk",
+   "t": 15.735,
+   "gain": -22,
+   "verb": 0.2
+  },
+  {
+   "type": "pop",
+   "t": 16.085,
+   "pitch": 1.4,
+   "gain": -20
+  },
+  {
+   "type": "jingle",
+   "t": 17.38,
+   "notes": "C5 E5 G5 C6 E6",
+   "inst": "marimba",
+   "step": 0.06,
+   "gain": -14,
+   "verb": 0.3
+  },
+  {
+   "type": "pop",
+   "t": 17.63,
+   "pitch": 1.8,
+   "gain": -24
+  },
+  {
+   "type": "coin",
+   "t": 18.279999999999998,
+   "gain": -18,
+   "verb": 0.2
+  }
+ ]
+}

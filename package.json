@@ -1,0 +1,36 @@
+{
+  "name": "innovation-styles",
+  "private": true,
+  "description": "四种原创动画风格的 Remotion 短片 skill：字幕叙事、合成音效、可复用示例",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "check": "node scripts/check.mjs --all",
+    "test": "node --test tests/*.test.mjs",
+    "stills": "node scripts/render.mjs",
+    "render": "node scripts/render.mjs"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^9.8.1",
+    "@remotion/bundler": "^4.0.534",
+    "@remotion/cli": "^4.0.534",
+    "@remotion/media-utils": "^4.0.534",
+    "@remotion/noise": "^4.0.534",
+    "@remotion/paths": "^4.0.534",
+    "@remotion/renderer": "^4.0.534",
+    "@remotion/shapes": "^4.0.534",
+    "@remotion/three": "^4.0.534",
+    "@types/react": "^19.3.0",
+    "@types/three": "^0.186.0",
+    "puppeteer-core": "^23.11.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "remotion": "^4.0.534",
+    "simplex-noise": "^4.0.3",
+    "three": "^0.186.1",
+    "typescript": "^7.0.2"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=22.18.0"
+  }
+}

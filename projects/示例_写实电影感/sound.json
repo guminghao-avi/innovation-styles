@@ -1,0 +1,181 @@
+{
+ "end": 24.59,
+ "lufs": -14,
+ "music": [
+  {
+   "type": "air",
+   "t0": 0,
+   "t1": 24.490000000000002,
+   "tone": 0.2,
+   "gain": -33
+  }
+ ],
+ "sfx": [
+  {
+   "type": "mumble",
+   "t": 0.15,
+   "rate": 1,
+   "muffle": 7500,
+   "gain": -10,
+   "verb": 0.3,
+   "space": "hall"
+  },
+  {
+   "type": "mumble",
+   "t": 6.34,
+   "rate": 1.3,
+   "drive": 0.0,
+   "muffle": 4000,
+   "gain": -16.0,
+   "verb": 0.2
+  },
+  {
+   "type": "mumble",
+   "t": 6.859,
+   "rate": 1.65,
+   "drive": 0.11,
+   "muffle": 4000,
+   "gain": -16.4,
+   "verb": 0.2
+  },
+  {
+   "type": "mumble",
+   "t": 7.183,
+   "rate": 2.0,
+   "drive": 0.22,
+   "muffle": 4000,
+   "gain": -16.8,
+   "verb": 0.2
+  },
+  {
+   "type": "mumble",
+   "t": 7.459,
+   "rate": 2.35,
+   "drive": 0.33,
+   "muffle": 4000,
+   "gain": -17.2,
+   "verb": 0.2
+  },
+  {
+   "type": "mumble",
+   "t": 7.709,
+   "rate": 2.7,
+   "drive": 0.44,
+   "muffle": 4000,
+   "gain": -17.6,
+   "verb": 0.2
+  },
+  {
+   "type": "mumble",
+   "t": 7.94,
+   "rate": 3.05,
+   "drive": 0.56,
+   "muffle": 4000,
+   "gain": -18.0,
+   "verb": 0.2
+  },
+  {
+   "type": "mumble",
+   "t": 8.158,
+   "rate": 3.4,
+   "drive": 0.67,
+   "muffle": 4000,
+   "gain": -18.4,
+   "verb": 0.2
+  },
+  {
+   "type": "mumble",
+   "t": 8.366,
+   "rate": 3.75,
+   "drive": 0.78,
+   "muffle": 4000,
+   "gain": -18.8,
+   "verb": 0.2
+  },
+  {
+   "type": "mumble",
+   "t": 8.564,
+   "rate": 4.1,
+   "drive": 0.89,
+   "muffle": 4000,
+   "gain": -19.2,
+   "verb": 0.2
+  },
+  {
+   "type": "mumble",
+   "t": 8.755,
+   "rate": 4.45,
+   "drive": 1.0,
+   "muffle": 4000,
+   "gain": -19.6,
+   "verb": 0.2
+  },
+  {
+   "type": "whisper",
+   "t0": 6.14,
+   "t1": 8.38,
+   "n0": 2,
+   "n1": 10,
+   "gain": -18
+  },
+  {
+   "type": "mumble",
+   "t": 10.815,
+   "rate": 0.9333333333333332,
+   "muffle": 9000,
+   "gain": -11,
+   "verb": 0.3,
+   "space": "hall"
+  },
+  {
+   "type": "mumble",
+   "t": 11.365,
+   "rate": 0.9333333333333332,
+   "muffle": 5000,
+   "gain": -18,
+   "pan": -0.3,
+   "verb": 0.5,
+   "space": "hall"
+  },
+  {
+   "type": "mumble",
+   "t": 11.915,
+   "rate": 0.9333333333333332,
+   "muffle": 3500,
+   "gain": -24,
+   "pan": 0.3,
+   "verb": 0.5,
+   "space": "hall"
+  },
+  {
+   "type": "mumble",
+   "t": 12.465,
+   "rate": 0.9333333333333332,
+   "muffle": 2500,
+   "gain": -30,
+   "pan": -0.3,
+   "verb": 0.5,
+   "space": "hall"
+  },
+  {
+   "type": "swell",
+   "t": 16.990000000000002,
+   "dur": 4,
+   "note": "D4",
+   "gain": -24,
+   "verb": 0.5
+  },
+  {
+   "type": "boom",
+   "t": 17.290000000000003,
+   "note": "A0",
+   "gain": -30
+  }
+ ],
+ "mute": [
+  [
+   8.43,
+   10.415
+  ]
+ ]
+}

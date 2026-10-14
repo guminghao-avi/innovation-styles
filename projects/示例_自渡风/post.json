@@ -1,0 +1,7 @@
+{
+  "grain": 2.5,
+  "vignette": 0.28,
+  "bloom": 0.24,
+  "bloomThreshold": 0.6,
+  "bloomRadius": 26
+}

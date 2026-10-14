@@ -1,0 +1,7 @@
+{
+  "grain": 4,
+  "vignette": 0.3,
+  "bloom": 0.05,
+  "bloomThreshold": 0.8,
+  "eq": "contrast=1.02:saturation=1.02"
+}
